@@ -1,5 +1,6 @@
 # DESUU
-Design for Embedded Systems Under Uncertainties
+Design for Embedded Systems Under Uncertainties;
 --------------------------------------------------------------------------------------------------------------------------
-Edited by Wenkai on May 25, 2017
+Edited by Wenkai on May 25, 2017;
+Instructed by Cris (cristinel.ababei@marquette.edu);
 --------------------------------------------------------------------------------------------------------------------------
