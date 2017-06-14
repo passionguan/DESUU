@@ -75,10 +75,6 @@ The best_pop.out file contains all the non-dominate solutions, which consist of 
 
 
 About the input parameters
---------------------------------------------------------------------------
-popsize: This variable stores the population size (a multiple of 4);
----------------------------------------------------------------------------
-
 ---------------------------------------------------------------------------
 popsize: This variable stores the population size (a multiple of 4);
 ngen: Number of generations;
