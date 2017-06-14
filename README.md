@@ -43,7 +43,7 @@ http://www.boost.org/doc/libs/1_61_0/more/getting_started/unix-variants.html
 How to compile and run the program
 ---------------------------------------------------------------------------
 Makefile has been provided for compiling the program on linux (and unix-like)
-systems. Edit the "CLASSDIR", "INCDIRS" and "X11_INCLUDE" base on your own path.
+systems. Edit the "CLASSDIR", "INCDIRS" and "BOOST" base on your own path.
 
 CLASSDIR: The path you store the DESUU tool. For instance, if you store the tool in /home/passionguan/Downloads/DESUU , then edit CLASSDIR = /home/passionguan/Downloads/DESUU
 
