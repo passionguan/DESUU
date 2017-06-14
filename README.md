@@ -63,19 +63,22 @@ NOTE: we have used the open source nsga2 algorithm code from Dr. Kalyanmoy Deb.
 
 
 About the output files
----------------------------------------------------------------------------
-initial_pop.out: This file contains all the information about initial population.
+--------------------------------------------------------------------------
+best_pop.out: This file contains the best solutions obtained at the end of simulation run.
+inial_pop.out: This file contains all the information about initial population.
 final_pop.out: This file contains the data of final population.
 all_pop.out: This file containts the data of populations at all generations.
-best_pop.out: This file contains the best solutions obtained at the end of simulation run.
 params.out: This file contains the information about input parameters as read by the program.
 
 The best_pop.out file contains all the non-dominate solutions, which consist of the Pareto frontier.
----------------------------------------------------------------------------
-
+--------------------------------------------------------------------------
 
 
 About the input parameters
+--------------------------------------------------------------------------
+popsize: This variable stores the population size (a multiple of 4);
+---------------------------------------------------------------------------
+
 ---------------------------------------------------------------------------
 popsize: This variable stores the population size (a multiple of 4);
 ngen: Number of generations;
