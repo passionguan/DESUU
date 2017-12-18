@@ -5,18 +5,14 @@
  -Instructed by Cris (cristinel.ababei@marquette.edu);
  ---------------------------------------------------------------------------------------------------------------------------
  +This is the Readme file for DESUU tool.
- +
- +
+
  +About the software framework tool
- +--------------------------------------------------------------------------
+
  +DESUU: Design for Embedded Systems Under Uncertainties
- +
+
  +Note: The tool is compiled on a Linux machine running Ubuntu 14.04.
  +It is understood you are working on a linux machine.
- +---------------------------------------------------------------------------
- +
- +
- +
+
  +Install prerequisites library
  +---------------------------------------------------------------------------
  +Before compling and running the framework, you need to first install libx11-dev on your Linux Ubuntu machine. Please use the following command to install the package:
