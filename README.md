@@ -60,34 +60,55 @@ Edited by Wenkai on May 25, 2017;
   -About the output files
  
   best_pop.out: This file contains the best solutions obtained at the end of simulation run.
+  
   inial_pop.out: This file contains all the information about initial population.
+  
   final_pop.out: This file contains the data of final population.
+  
   all_pop.out: This file containts the data of populations at all generations.
+  
   params.out: This file contains the information about input parameters as read by the program.
- 
+  
   The best_pop.out file contains all the non-dominate solutions, which consist of the Pareto frontier.
  
  -----------------------------------------------------------------------------------------------------------------------------
  
   -About the input parameters
  
-  -popsize: This variable stores the population size (a multiple of 4);
-  -ngen: Number of generations;
-  -nobj: Number of objectives;
-  -ncon: Number of constraints;
-  -nreal: Number of real variables;
-  -min_realvar[i]: minimum value of i^{th} real variable;
-  -max_realvar[i]: maximum value of i^{th} real variable;
-  -pcross_real: probability of crossover of real variable;
-  -pmut_real: probability of mutation of real variable;
-  -eta_c: distribution index for real variable SBX crossover;
-  -eta_m: distribution index for real variable polynomial mutation;
-  -nbin: number of binary variables;
-  -nbits[i]: number of bits for i^{th} binary variable;
-  -min_binvar[i]: minimum value of i^{th} binary variable;
-  -max_binvar[i]: maximum value of i^{th} binary variable;
-  -pcross_bin: probability of crossover for binary variable;
-  -pmut_bin: probability of mutation for binary variable;
+  -popsize: This variable stores the population size (a multiple of 4).
+  
+  -ngen: Number of generations.
+  
+  -nobj: Number of objectives.
+  
+  -ncon: Number of constraints.
+  
+  -nreal: Number of real variables.
+  
+  -min_realvar[i]: minimum value of i^{th} real variable.
+  
+  -max_realvar[i]: maximum value of i^{th} real variable.
+  
+  -pcross_real: probability of crossover of real variable.
+  
+  -pmut_real: probability of mutation of real variable.
+  
+  -eta_c: distribution index for real variable SBX crossover.
+  
+  -eta_m: distribution index for real variable polynomial mutation.
+  
+  -nbin: number of binary variables.
+  
+  -nbits[i]: number of bits for i^{th} binary variable.
+  
+  -min_binvar[i]: minimum value of i^{th} binary variable.
+  
+  -max_binvar[i]: maximum value of i^{th} binary variable.
+  
+  -pcross_bin: probability of crossover for binary variable.
+  
+  -pmut_bin: probability of mutation for binary variable.
+  
  
 -------------------------------------------------------------------------------------------------------------------------------
  
