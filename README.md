@@ -8,11 +8,11 @@ Due to technology downscaling, embedded systems have increased in complexity and
 
 In order to solve this problem, we formulate the problem of uncertainty aware mapping for multicore embedded systems as a multi-objective optimization problem. We present a solution to this problem that integrates uncertainty models as a new design methodology constructed with Monte Carlo and evolutionary algorithms. 
 
-![image](https://github.com/passionguan/DESUU/tree/master/Figures/fig_block_diagram.jpeg)
+![image](https://github.com/passionguan/DESUU/tree/master/Figures/fig_block_diagram.jpg)
 
 The methodology is uncertainty aware because it is able to model uncertainties in design parameters and to identify robust design solutions that limit the influence of these uncertainties onto the objective functions. The proposed design methodology is implemented as a tool called DESUU that can generate the robust Pareto frontier in the objective space formed by reliability, performance, and energy consumption.
 
-![image](https://github.com/passionguan/DESUU/tree/master/Figures/fig_5_percent_ABS_3D.jpeg)
+![image](https://github.com/passionguan/DESUU/tree/master/Figures/fig_5_percent_ABS_3D.jpg)
 
 ## How to use?
 
