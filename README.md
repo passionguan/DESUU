@@ -12,7 +12,7 @@ In order to solve this problem, we formulate the problem of uncertainty aware ma
 
 The methodology is uncertainty aware because it is able to model uncertainties in design parameters and to identify robust design solutions that limit the influence of these uncertainties onto the objective functions. The proposed design methodology is implemented as a tool called DESUU that can generate the robust Pareto frontier in the objective space formed by reliability, performance, and energy consumption.
 
-![image](https://github.com/passionguan/DESUU/tree/master/Figures/fig_5_percent_ABS_3D.jpg)
+![image](https://github.com/passionguan/DESUU/blob/master/Figures/fig_5_percent_ABS_3D.jpg)
 
 ## How to use?
 
